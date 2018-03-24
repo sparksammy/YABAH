@@ -6873,8 +6873,6 @@
 daisy.ubuntu.com
 
 #Block Facebook Telemetry
-::1 login.facebook.com
-::1 www.login.facebook.com
 ::1 fbcdn.net
 ::1 www.fbcdn.net
 ::1 fbcdn.com
@@ -6988,12 +6986,6 @@ daisy.ubuntu.com
 127.0.0.1 lite.facebook.com
 127.0.0.1 lkwww.facebook.com
 127.0.0.1 ll.facebook.com
-127.0.0.1 login-10-01-snc1.facebook.com
-127.0.0.1 login-11-01-snc1.facebook.com
-127.0.0.1 login-12-01-snc1.facebook.com
-127.0.0.1 login-12-01-snc2.facebook.com
-127.0.0.1 login-12-07-snc1.facebook.com
-127.0.0.1 login.facebook.com
 127.0.0.1 m-11-01-snc1.facebook.com
 127.0.0.1 m-12-01-snc1.facebook.com
 127.0.0.1 m-13-01-snc1.facebook.com
@@ -7116,7 +7108,6 @@ daisy.ubuntu.com
 127.0.0.1 www-g.facebook.com
 127.0.0.1 www-j.facebook.com
 127.0.0.1 www-k.facebook.com
-127.0.0.1 www.login.facebook.com
 127.0.0.1 www-l.facebook.com
 127.0.0.1 www-sf2p-a.facebook.com
 127.0.0.1 www.facebook.com
@@ -7221,7 +7212,6 @@ daisy.ubuntu.com
 0.0.0.0 inyour-slb-01-05-ash3.facebook.com
 0.0.0.0 it-it.facebook.com
 0.0.0.0 ja-jp.facebook.com
-0.0.0.0 login.facebook.com
 0.0.0.0 m.facebook.com
 0.0.0.0 messages-facebook.com
 0.0.0.0 mqtt.facebook.com
@@ -7280,7 +7270,6 @@ daisy.ubuntu.com
 0.0.0.0 www.facebook.fr
 0.0.0.0 www.fbcdn.com
 0.0.0.0 www.fbcdn.net
-0.0.0.0 www.login.facebook.com
 0.0.0.0 zh-cn.facebook.com
 0.0.0.0 zh-tw.facebook.com
 
@@ -7379,7 +7368,6 @@ daisy.ubuntu.com
 0.0.0.0 inyour-slb-01-05-ash3.facebook.com
 0.0.0.0 it-it.facebook.com
 0.0.0.0 ja-jp.facebook.com
-0.0.0.0 login.facebook.com
 0.0.0.0 m.facebook.com
 0.0.0.0 messages-facebook.com
 0.0.0.0 mqtt.facebook.com
@@ -7438,7 +7426,6 @@ daisy.ubuntu.com
 0.0.0.0 www.facebook.fr
 0.0.0.0 www.fbcdn.com
 0.0.0.0 www.fbcdn.net
-0.0.0.0 www.login.facebook.com
 0.0.0.0 zh-cn.facebook.com
 0.0.0.0 zh-tw.facebook.com
 
