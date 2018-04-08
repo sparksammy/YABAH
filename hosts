@@ -7273,7 +7273,7 @@ daisy.ubuntu.com
 0.0.0.0 zh-cn.facebook.com
 0.0.0.0 zh-tw.facebook.com
 
-##maybey duplicate
+##maybe duplicate
 0.0.0.0 0-act.channel.facebook.com
 0.0.0.0 0-edge-chat.facebook.com
 0.0.0.0 1-act.channel.facebook.com
@@ -7429,3 +7429,6 @@ daisy.ubuntu.com
 0.0.0.0 zh-cn.facebook.com
 0.0.0.0 zh-tw.facebook.com
 
+#Easy Auto Refresh Spy
+0.0.0.0 edatasales.com
+0.0.0.0 www.edatasales.com 
