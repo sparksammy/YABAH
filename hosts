@@ -6873,10 +6873,10 @@
 daisy.ubuntu.com
 
 #Block Facebook Telemetry
-::1 fbcdn.net
-::1 www.fbcdn.net
-::1 fbcdn.com
-::1 www.fbcdn.com
+# ::1 fbcdn.net
+# ::1 www.fbcdn.net
+# ::1 fbcdn.com
+# ::1 www.fbcdn.com
 ::1 static.ak.fbcdn.net
 ::1 static.ak.connect.facebook.com
 ::1 connect.facebook.net
