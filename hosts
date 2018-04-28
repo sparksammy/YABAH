@@ -6881,7 +6881,7 @@ daisy.ubuntu.com
 ::1 static.ak.connect.facebook.com
 ::1 connect.facebook.net
 ::1 www.connect.facebook.net
-::1 apps.facebook.com
+# ::1 apps.facebook.com
 ::1 www.google-analytics.com
 ::1 google-analytics.com
 ::1 ssl.google-analytics.com
