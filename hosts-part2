@@ -1,0 +1,10 @@
+#Disable Rockstar Telemetry
+127.0.0.1       prod.telemetry.ros.rockstargames.com
+127.0.0.1       prod.anticheat.ros.rockstargames.com
+127.0.0.1       prod.badsport.ros.rockstargames.com
+127.0.0.1       prod.modders.ros.rockstargames.com
+127.0.0.1       prod.bans.ros.rockstargames.com
+127.0.0.1       prod.report.ros.rockstargames.com
+127.0.0.1       prod.reports.ros.rockstargames.com
+127.0.0.1       prod.modder.ros.rockstargames.com
+#End Disable Rockstar Telemetry
