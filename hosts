@@ -69803,8 +69803,8 @@ daisy.ubuntu.com
 0.0.0.0 edatasales.com
 0.0.0.0 www.edatasales.com 
 
-#ROBLOX BanWave Bypass
-0.0.0.0 data.roblox.com
+#ROBLOX BanWave Bypass (Disabled by default because dissallows Studio upload)
+#0.0.0.0 data.roblox.com
 
 #Disable Rockstar Telemetry
 127.0.0.1       prod.telemetry.ros.rockstargames.com
